@@ -1,6 +1,6 @@
 // Dummy journalController without any Database connection and Without Service connection
 // Using JournalController_v2
-package com.example._3_journalApp.controller;
+package com.example._3_journalApp.controllers;
 
 import com.example._3_journalApp.entity.JournalEntry;
 import org.bson.types.ObjectId;

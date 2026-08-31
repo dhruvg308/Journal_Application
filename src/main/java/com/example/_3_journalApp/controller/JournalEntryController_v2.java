@@ -1,5 +1,5 @@
 // controller Calls Service
-package com.example._3_journalApp.controller;
+package com.example._3_journalApp.controllers;
 
 import com.example._3_journalApp.entity.JournalEntry;
 import com.example._3_journalApp.service.JournalEntryService;
